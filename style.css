@@ -1,0 +1,14 @@
+#title {
+    color: white;
+    background-color: black;
+}
+
+.link {
+    font-size: bold;
+    color: red;
+}
+
+#title,
+.link {
+    font-family: papyrus, sans-serif;
+}
