@@ -1,0 +1,29 @@
+#title {
+    color: white;
+    background-color: black;
+    font-weight: 700;
+    font-family: papyrus, sans-serif;
+}
+
+#title.header {
+    font-weight: bold;
+}
+
+.header {
+    background-color: green;
+    color: white;
+    font-family: papyrus, sans-serif;
+}
+
+.para,
+.list {
+    font-family: papyrus, sans-serif;
+}
+
+.para {
+    font-size: 18px;
+}
+
+.list {
+    font-size: 14px;
+}
